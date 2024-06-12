@@ -3,61 +3,53 @@
 {
   "servicesData": [
     {
-      "id": 1,
+      "id": 0,
       "title": "CТРАТЕГИЯ",
-      "imageUrl":"https://photos.google.com/memory/featured/AF1QipMGautx3DH_RI1Mrwi-MzZc02T7X1WCZHzFmEOskg",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     
+    {
+      "id": 1,
+      "title": "АНАЛИЗ",
+      "description":"Создадим уникальный и удобный дизайн.",
+      "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
+    },
     {
       "id": 2,
-      "title": "АНАЛИЗ",
-      "imageUrl":"assets/S2.png",
-      "description":"Создадим уникальный и удобный дизайн.",
-      "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
-    },
-    {
-      "id": 3,
       "title": "СОЦ ЦЕТИ",
-      "imageUrl":"assets/S3.png",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     
     {
-      "id": 4,
+      "id": 3,
       "title": "РАЗВИТИЕ",
-      "imageUrl":"assets/S4.png",
+      "description":"Создадим уникальный и удобный дизайн.",
+      "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
+    },
+    {
+      "id": 4,
+      "title": "КОНТЕНТ",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     {
       "id": 5,
-      "title": "КОНТЕНТ",
-      "imageUrl":"assets/S5.png",
+      "title": "ДИЗАЙН UX",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     {
       "id": 6,
-      "title": "ДИЗАЙН UX",
-      "imageUrl":"assets/S6.png",
-      "description":"Создадим уникальный и удобный дизайн.",
-      "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
-    },
-    {
-      "id": 7,
       "title": "ТАРГЕТИРОВАННАЯ РЕКЛАМА",
-      "imageUrl":"assets/S7.png",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     
     {
-      "id": 8,
+      "id": 7,
       "title": "ПРОДУКТ",
-      "imageUrl":"assets/S8.png",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     }
