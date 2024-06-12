@@ -3,52 +3,52 @@
 {
   "servicesData": [
     {
-      "id": 0,
+      "id": 1,
       "title": "CТРАТЕГИЯ",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     
     {
-      "id": 1,
+      "id": 2,
       "title": "АНАЛИЗ",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "СОЦ ЦЕТИ",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     
     {
-      "id": 3,
+      "id": 4,
       "title": "РАЗВИТИЕ",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "КОНТЕНТ",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "ДИЗАЙН UX",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "ТАРГЕТИРОВАННАЯ РЕКЛАМА",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
     },
     
     {
-      "id": 7,
+      "id": 8,
       "title": "ПРОДУКТ",
       "description":"Создадим уникальный и удобный дизайн.",
       "detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget semper justo. Maecenas consequat sagittis justo, nec ultricies urna tincidunt at."
